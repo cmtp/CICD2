@@ -2,6 +2,7 @@ package com.rrtutors.cicd2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import com.rrtutors.cicd2.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
